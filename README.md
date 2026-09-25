@@ -241,4 +241,4 @@ Manor Lords is provided as a full free version with all features and updates inc
 Don't wait any longer! Download Manor Lords today and take charge of your medieval destiny!
 
 ---
-**Last updated:** 2026-09-25 20:58:53 UTC
+**Last updated:** 2026-09-25 23:53:41 UTC
